@@ -1,0 +1,18 @@
+ITERACIÓN SEMANA 10
+
+1. ¿Qué dos tareas harías primero?
+
+- Registrar una incidencia.
+- Enviar una notificación automática por Telegram.
+
+2. ¿Por qué son las más importantes?
+
+Porque permiten registrar la información oportunamente y avisar al equipo encargado para que pueda iniciar el seguimiento.
+
+3. ¿Qué significa que una tarea está terminada?
+
+Una tarea está terminada cuando:
+
+- Funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git mediante un commit.
