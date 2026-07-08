@@ -1,0 +1,11 @@
+INTERFAZ BÁSICA
+
+La plataforma tendrá un formulario para crear una nueva causa comunitaria donde el usuario podrá ingresar el título, la descripción y la fecha.
+
+También contará con una lista de todas las causas disponibles para consulta.
+
+Cada causa tendrá un botón llamado "Apoyar" para registrar el respaldo del ciudadano.
+
+Además, se mostrará un contador con el número de apoyos recibidos por cada causa.
+
+La interfaz será sencilla, organizada y no mostrará información privada de los usuarios.
